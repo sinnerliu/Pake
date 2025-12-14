@@ -57,6 +57,7 @@ on:
           - "deb"
           - "appimage"
           - "rpm"
+          - "x64"
 
 jobs:
   build:
